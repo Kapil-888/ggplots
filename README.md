@@ -5,7 +5,7 @@
 - Used non linear and advanced models checked through kappa and accuracy values.
 ### Steps Involved
 - *Data Filtering Techniques using tidyverse*
-- *Data Scraping
+- *Data Scraping*
 - *Data Cleaning*
 - *Data Manipulation/Wrangling*
 - *Reviewing basic plots and stats*
