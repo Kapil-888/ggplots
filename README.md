@@ -3,7 +3,7 @@
 ## **1. Machine Learning Model for Weather Forcast**
 - In building this model I have used 10 cross fold validation of actual weather data set of London 2015-2016.
 - Used non linear and advanced models checked through kappa and accuracy values.
-### Steps Involved
+## Steps Involved
 *Data Filtering Techniques using tidyverse*
 *Data Scraping
 *Data Cleaning*
