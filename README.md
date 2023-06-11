@@ -11,3 +11,7 @@
 3. t-tests:
 - t-tests are used in analysis in various fields, these tell us if there's truely a statistical difference in our means of one or two groups.
 - In this, I have done Single Sample, One sided, Two Sided, & Paired t-tests using gapminder dataset.
+
+4. ANOVA:
+- Analysis of variance is used for checking if the difference between 3 or more categorical variables vs a numerical variable is statiscally diffence or could it have been occurred by chance. 
+- These can be done for multiple variable as MANOVA (multivariate ANOVA)
