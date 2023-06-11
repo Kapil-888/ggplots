@@ -4,9 +4,9 @@
 - In building this model I have used 10 cross fold validation of actual weather data set of London 2015-2016.
 - Used non linear and advanced models checked through kappa and accuracy values.
 ### Steps Involved
-- *Data Filtering Techniques using tidyverse*
 - *Data Scraping*
 - *Data Cleaning*
+- *Data Filtering Techniques using tidyverse*
 - *Data Manipulation/Wrangling*
 - *Reviewing basic plots and stats*
 - *10 fold cross validation*
