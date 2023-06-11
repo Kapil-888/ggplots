@@ -135,8 +135,7 @@ metricml <- "Accuracy"
 #Building Models
 #We don’t know which algorithms would be good on this problem or what
 #configurations to use. We get an idea from the plots that some of the classes
-#are partially linearly separable in some dimensions, so we are expecting
-#generally good results.
+#are partially non linearly separable in some dimensions, so non linear algoritms can give us good results.
 
 #4 different algorithms:
 
