@@ -1,4 +1,4 @@
-***# ggplots***
+***# ggplot for Analytics***
 
 **1. Machine Learning model for weather forcast**
 - In building this model I have used 10 cross fold validation of actual weather data set of London 2015-2016.
