@@ -14,7 +14,7 @@
 - *Finding accuracy and kappa for best fitting model*
 
 
-## **2. Webpage Model**
+## **2. Creating Model from Webpage**
 - Involves scraping data from worldometer website.
 - ggplot for definifing interrelation between variables, designing axis, legends, title, theme, and facets.
 
