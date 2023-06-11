@@ -15,3 +15,7 @@
 4. ANOVA:
 - Analysis of variance is used for checking if the difference between 3 or more categorical variables vs a numerical variable is statiscally diffence or could it have been occurred by chance. 
 - These can be done for multiple variable as MANOVA (multivariate ANOVA)
+
+5. Chi-Square tests:
+- It is used for checking differences in propotions of two categorical (discrete) variables. 
+- I have here demonstrated two types of chi tests - goodness of fit, & test of independence
