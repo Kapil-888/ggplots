@@ -1,9 +1,14 @@
 ## ***Research, & Analytics***
 
-## **1. Machine Learning model for weather forcast**
+## **1. Machine Learning Model for Weather Forcast**
 - In building this model I have used 10 cross fold validation of actual weather data set of London 2015-2016.
 - Used non linear and advanced models checked through kappa and accuracy values.
-- This 
+### Steps Involved
+*Data Filtering Techniques using tidyverse*
+*Data Scraping, & Cleaning*
+*Data Manipulation/Wrangling*
+*Describe and Summarise Data*
+
 
 ## **2. Gapminder.R**
 - Population data of Asia and Europe is taken to explain life expectancy in relation with GDP per capita. 
