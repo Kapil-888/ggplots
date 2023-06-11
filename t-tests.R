@@ -5,7 +5,7 @@
 #2. Values or normally distributed 
 #3. Two samples have similar variance 
 
-Values have to be pre-decided for hypothesis. After checking the p value and deciding the confidence intervals to produce statistically signifiant results is knowing as p hacking (bad science)
+#Values have to be pre-decided for hypothesis. After checking the p value and deciding the confidence intervals to produce statistically signifiant results is knowing as p hacking (bad science)
 
 #For checking variance 
 var(gapminder$lifeExp[gapminder$country == "India"])
@@ -26,8 +26,8 @@ View(gapminder)
 #Single sample t-test
 
 #Hypothesis Testing
-: HO: the mean life expectancy is 50 years (Null hypothesis)
-: H1: the mean life expectancy is not 50 years (Alternative hypothesis)
+#: HO: the mean life expectancy is 50 years (Null hypothesis)
+#: H1: the mean life expectancy is not 50 years (Alternative hypothesis)
 #we have to find confidence intervals to check statistical significance
 #To check we assume that the above mentioned Null Hypothesis is correct i.e lifeExp is 50 yrs
 #What is the probablity that the difference is different than 50 years?
