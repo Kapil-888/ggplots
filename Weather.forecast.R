@@ -187,7 +187,3 @@ print(fit.cart)
 predictionsml1 <- predict(fit.knn, validationml)
 confusionMatrix(predictionsml1, validationml$Events)
 
-
-
-
-
