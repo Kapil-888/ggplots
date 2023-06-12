@@ -4,6 +4,17 @@
 - In building this model I have used 10 cross fold validation of actual weather data set of London 2015-2016.
 - Used non linear and advanced models checked through kappa and accuracy values.
 ### Supervised ML Models Used
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+
+
 - *Classification & Regression Tree (CART)*
 - *k-Nearest Neighbours (knn)*
 - *Random Forest (rm)*
