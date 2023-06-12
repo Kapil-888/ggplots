@@ -5,12 +5,13 @@
 - Used non linear and advanced models checked through kappa and accuracy values.
 ### Supervised ML Models Used
 
-```mermaid
+```### Supervised ML Models Used
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    ML Models--> *Classification & Regression Tree (CART)*;
+    ML Models--> *k-Nearest Neighbours (knn)*;
+    ML Models--> *Random Forest (rm)*;
+    ML Models--> *Tree Based Model (rpart)*;
+    ML Models--> *Support Machine Vector (svm)*;
 ```
 
 
