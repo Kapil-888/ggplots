@@ -15,7 +15,7 @@
 
 
 ## **2. Creating Model from Webpage**
-- Involves scraping data from worldometer website.
+- Involves scraping data from worldometer website about changes in uk population (2016-2021).
 - ggplot for definifing interrelation between variables, designing axis, legends, title, theme, and facets.
 
 
