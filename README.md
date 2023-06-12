@@ -6,7 +6,6 @@
 ### Supervised ML Models Used
 
 ```### Supervised ML Models Used
-graph TD;
     - *Classification & Regression Tree (CART)*;
     - *k-Nearest Neighbours (knn);
     - *Random Forest (rm);
