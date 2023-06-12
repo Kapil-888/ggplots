@@ -7,11 +7,11 @@
 
 ```### Supervised ML Models Used
 graph TD;
-    ML Models--> *Classification & Regression Tree (CART)*;
-    ML Models--> *k-Nearest Neighbours (knn)*;
-    ML Models--> *Random Forest (rm)*;
-    ML Models--> *Tree Based Model (rpart)*;
-    ML Models--> *Support Machine Vector (svm)*;
+    - *Classification & Regression Tree (CART)*;
+    - *k-Nearest Neighbours (knn);
+    - *Random Forest (rm);
+    - *Tree Based Model (rpart)*;
+    - *Support Machine Vector (svm)*;
 ```
 
 
