@@ -7,7 +7,7 @@
 - *Classification & Regression Tree (CART)*
 - *k-Nearest Neighbours (knn)*
 - *Random Forest (rm)*
-- *Linear Discriminant Analysis (LDA)*
+- *Tree Based Model (rpart)*
 - *Support Machine Vector (svm)*
 
 
