@@ -3,14 +3,14 @@
 ## **1. Machine Learning Model for Weather Dataset**
 - In building this model I have used 10 cross fold validation of actual weather data set of London 2015-2016.
 - Used non linear and advanced models checked through kappa and accuracy values.
+
 ### Supervised ML Models Used
-``` 
-    - Classification & Regression Tree (CART)
-    - k-Nearest Neighbours (knn)
-    - Random Forest (rm)
-    - Tree Based Model (rpart)
-    - Support Machine Vector (svm)
-```
+
+- *Classification & Regression Tree (CART)*
+- *k-Nearest Neighbours (knn)*
+- *Random Forest (rm)*
+- *Tree Based Model (rpart)*
+- *Support Machine Vector (svm)*
 
 ![weather_ml](https://github.com/Kapil-888/ggplots/assets/133073110/aae492dd-c97d-4fdf-a8d9-24f0326820da)
 
