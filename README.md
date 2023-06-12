@@ -3,6 +3,17 @@
 ## **1. Machine Learning Model for Weather Forcast**
 - In building this model I have used 10 cross fold validation of actual weather data set of London 2015-2016.
 - Used non linear and advanced models checked through kappa and accuracy values.
+### Supervised ML Models Used
+- *Classification & Regression Tree (CART)*
+- *k-Nearest Neighbours (knn)*
+- *Random Forest (rm)*
+- *Linear Discriminant Analysis (LDA)*
+- *Support Machine Vector (svm)*
+
+
+## **2. Statistical Modelling from Webpage**
+- Involves scraping data from worldometer website about changes in uk population (2016-2021).
+- ggplot for definifing interrelation between variables, designing axis, legends, title, theme, and facets.
 ### Steps Involved
 - *Data Scraping*
 - *Data Cleaning*
@@ -12,11 +23,6 @@
 - *10 fold cross validation*
 - *Running different algorithms according to relations seen in viz*
 - *Finding accuracy and kappa for best fitting model*
-
-
-## **2. Creating Model from Webpage**
-- Involves scraping data from worldometer website about changes in uk population (2016-2021).
-- ggplot for definifing interrelation between variables, designing axis, legends, title, theme, and facets.
 
 
 ## **3. t-tests**
