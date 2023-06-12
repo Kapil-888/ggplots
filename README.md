@@ -9,6 +9,7 @@
 - *Random Forest (rm)*
 - *Tree Based Model (rpart)*
 - *Support Machine Vector (svm)*
+![weather_ml](https://github.com/Kapil-888/ggplots/assets/133073110/aae492dd-c97d-4fdf-a8d9-24f0326820da)
 
 
 ## **2. Statistical Modelling from Webpage**
