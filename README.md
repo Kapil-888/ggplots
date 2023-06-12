@@ -42,3 +42,5 @@
 - Population data of Asia and Europe is taken to explain life expectancy in relation with GDP per capita. 
 - Data was visualised as scatterplot and all the packages designed in R. 
 
+## **8. Airquality Project.R**
+- Used ggplot2 and tidyverse packages in R for determining fluctuations in Ozone levels with the increase in Solar Radiation and subsequent changes in Temperature.
