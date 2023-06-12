@@ -5,7 +5,8 @@
 - Used non linear and advanced models checked through kappa and accuracy values.
 ### Supervised ML Models Used
 
-``` - Classification & Regression Tree (CART)
+``` 
+    - Classification & Regression Tree (CART)
     - k-Nearest Neighbours (knn)
     - Random Forest (rm)
     - Tree Based Model (rpart)
