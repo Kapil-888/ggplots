@@ -10,6 +10,9 @@
 - *Tree Based Model (rpart)*
 - *Support Machine Vector (svm)*
 
+
+![CorRel weather](https://github.com/Kapil-888/ggplots/assets/133073110/6d346a00-35ba-4290-b833-5510cf901e25)
+
 ![weather_ml](https://github.com/Kapil-888/ggplots/assets/133073110/aae492dd-c97d-4fdf-a8d9-24f0326820da)
 
 
