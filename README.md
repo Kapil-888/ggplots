@@ -1,7 +1,8 @@
 ## ***Research & Analytics***
 
+<details>
 
-## **1. Machine Learning Model for Weather Dataset**
+<summary>## **1. Machine Learning Model for Weather Dataset**<summary>
 - In building this model I have used 10 cross fold validation of actual weather data set of London 2015-2016.
 - Used non linear and advanced models checked through kappa and accuracy values.
 ### Supervised ML Models Used
@@ -16,6 +17,7 @@
 
 ![CorRel weather](https://github.com/Kapil-888/ggplots/assets/133073110/6d346a00-35ba-4290-b833-5510cf901e25)
 
+ <details>
 
 ## **2. Statistical Modelling from Webpage**
 - Involves scraping data from worldometer website about changes in uk population (2016-2021).
