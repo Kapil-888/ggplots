@@ -61,7 +61,8 @@
 - Used ggplot2 and tidyverse packages in R for determining fluctuations in Ozone levels with the increase in Solar Radiation and subsequent changes in Temperature.
 
 
-[ggplot2::geom_smooth.pdf](https://github.com/Kapil-888/ggplots/files/11729030/ggplot2.geom_smooth.pdf)
+[ANOVA.pdf](https://github.com/Kapil-888/ggplots/files/11729032/ANOVA.pdf)
+
 
 
 
