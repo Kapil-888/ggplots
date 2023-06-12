@@ -155,6 +155,10 @@ fit.cart <- train(Events~., data=mlweather2, method="rpart", metric=metricml, tr
 # kNN
 set.seed(7)
 fit.knn <- train(Events~., data=mlweather2, method="knn", metric=metricml, trControl=controlml)
+#Tree Based Model
+set.seed(7)
+fit.rpart <- train(Events~., data=mlweather2, method="rpart", metric=metricml, trControl=controlml)
+
 # b) advanced algorithms
 # SVM
 set.seed(7)
