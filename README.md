@@ -1,6 +1,6 @@
 ## ***Research & Analytics***
 
-'#DAF7A6'
+`#RRGGBB`
 
 ## **1. Machine Learning Model for Weather Dataset**
 - In building this model I have used 10 cross fold validation of actual weather data set of London 2015-2016.
