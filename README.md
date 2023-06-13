@@ -25,9 +25,9 @@
 ```mermaid
 graph TD;
     Data Scraping-->Data Cleaning;
-    Data Scraping-->Data Filtering Techniques using tidyverse;
-    Data Cleaning-->Data Manipulation/Wrangling;
-    Data Filtering Techniques using tidyverse-->Data Manipulation/Wrangling;
+    Data Scraping-->Data Filtering;
+    Data Cleaning-->Data Manipulation;
+    Data Filtering-->Data Manipulation;
 ```
 
 
