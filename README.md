@@ -51,6 +51,7 @@
 ## **7. Gapminder.R**
 - Population data of Asia and Europe is taken to explain life expectancy in relation with GDP per capita. 
 - Data was visualised as scatterplot and all the packages designed in R. 
+- LifeExp vs GDP per capita is also animated along with time. 
 
 
 ![LifeExp AsiavsEuro](https://github.com/Kapil-888/ggplots/assets/133073110/238929c8-06a1-411b-bb5f-fbbe30a44031)
