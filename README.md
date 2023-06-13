@@ -21,6 +21,16 @@
 - Involves scraping data from worldometer website about changes in uk population (2016-2021).
 - ggplot for definifing interrelation between variables, designing axis, legends, title, theme, and facets.
 ### Steps Involved
+
+```mermaid
+graph TD;
+    Data Scraping-->Data Cleaning;
+    Data Scraping-->Data Filtering Techniques using tidyverse;
+    Data Cleaning-->Data Manipulation/Wrangling;
+    Data Filtering Techniques using tidyverse-->Data Manipulation/Wrangling;
+```
+
+
 - *Data Scraping*
 - *Data Cleaning*
 - *Data Filtering Techniques using tidyverse*
