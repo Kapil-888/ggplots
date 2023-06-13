@@ -26,9 +26,7 @@
 - *Data Filtering Techniques using tidyverse*
 - *Data Manipulation/Wrangling*
 - *Reviewing basic plots and stats*
-- *10 fold cross validation*
-- *Running different algorithms according to relations seen in viz*
-- *Finding accuracy and kappa for best fitting model*
+- *Using ggplot and gganimate for advanced plots and gifs*
 
 
 ## **3. t-tests**
