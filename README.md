@@ -54,7 +54,10 @@
 
 
 ![LifeExp AsiavsEuro](https://github.com/Kapil-888/ggplots/assets/133073110/238929c8-06a1-411b-bb5f-fbbe30a44031)
-![Uploading Gapminder.gif…]()
+
+
+![Gapminder](https://github.com/Kapil-888/ggplots/assets/133073110/2b4b085f-b4d0-48c9-9fe8-6bc4f0673696)
+
 
 
 ## **8. Airquality Project.R**
