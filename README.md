@@ -5,7 +5,6 @@
 - Used non linear and advanced models checked through kappa and accuracy values.
 
 ### Supervised ML Models Used
-
 - *Classification & Regression Tree (CART)*
 - *k-Nearest Neighbours (knn)*
 - *Random Forest (rm)*
@@ -20,17 +19,8 @@
 ## **2. Statistical Modelling from Webpage**
 - Involves scraping data from worldometer website about changes in uk population (2016-2021).
 - ggplot for definifing interrelation between variables, designing axis, legends, title, theme, and facets.
+
 ### Steps Involved
-
-```mermaid
-graph TD;
-    Data Scraping-->Data Cleaning;
-    Data Scraping-->Data Filtering;
-    Data Cleaning-->Data Manipulation;
-    Data Filtering-->Data Manipulation;
-```
-
-
 - *Data Scraping*
 - *Data Cleaning*
 - *Data Filtering Techniques using tidyverse*
