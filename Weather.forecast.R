@@ -185,9 +185,11 @@ dotplot(resultsml)
 print(fit.cart)
 #p value is less than 0.05 which means statistical significant results are obtained through our model
 #82% Accuracy of model in weather forecasting. 
+#0.89 of F1 Statistic
+#Looking at confusion matrix data indiactes that model is good enough for implementation.
 
 #Running predictive analytics
 #Estimate skill of knn on the validation dataset
-predictionsml1 <- predict(fit.knn, validationml)
+predictionsml1 <- predict(fit.cart, validationml)
 confusionMatrix(predictionsml1, validationml$Events)
 
